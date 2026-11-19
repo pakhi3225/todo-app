@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "d6a24de4-37df-4844-a57f-6607cfe48223",
+    "text": "study",
+    "done": true,
+    "createdAt": "2026-11-19T17:12:31.798Z"
+  },
+  {
+    "_id": "37169d45-7bb5-4dc2-86b8-c7c92f32e063",
+    "text": "eat",
+    "done": true,
+    "createdAt": "2026-11-19T17:12:37.554Z"
+  },
+  {
+    "_id": "71bedafd-f841-4d76-b138-21345d1e4df6",
+    "text": "sleep",
+    "done": true,
+    "createdAt": "2026-11-19T17:12:42.982Z"
+  }
+]
